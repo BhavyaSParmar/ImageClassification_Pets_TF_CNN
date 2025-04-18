@@ -1,7 +1,7 @@
 # Image Classification with TensorFlow CNN
 This project demonstrates the use of a **Convolutional Neural Network (CNN)** built using **TensorFlow and Keras** to classify images from a dataset into distinct categories. The model is trained, validated, and evaluated for performance using visualization and metrics tracking.
 
----
+--- 
 
 ## 🎯 Objective
 
